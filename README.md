@@ -16,7 +16,7 @@ The project demonstrates my ability to:
 ---
 
 ## Dashboard
- <img src="https://github.com/Vaibh31/Power-BI-Project/blob/main/picture.png" />
+ <img src="https://github.com/Vaibh31/Power-BI-Project/blob/main/image.png" />
 
 ## 🎯 Key Objectives
 
