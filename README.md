@@ -18,6 +18,10 @@ The project demonstrates my ability to:
 ## Dashboard
  <img src="https://github.com/Vaibh31/Power-BI-Project/blob/main/image.png" />
 
+### 🎥 Dashboard Demo (Video)
+
+[▶️ Click to watch](https://github.com/Vaibh31/Power-BI-Project/blob/main/dashboard.mp4)
+
 ## 🎯 Key Objectives
 
 - Understand how **passenger satisfaction** is influenced by:
