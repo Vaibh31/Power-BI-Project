@@ -6,5 +6,5 @@ The objective of this project is to design an interactive Power BI dashboard tha
 # Dataset Used-
 - <a href="https://github.com/Vaibh31/Power-BI-Project/blob/main/Invistico_Airline.csv">Sample Airline CSV Datset</a>
 
-# Dasthboard
-<img src="C:\Users\tikke\Pictures\Screenshots"/>
+# Dashboard
+ <img src="(https://github.com/Vaibh31/Power-BI-Project/blob/main/picture.png)"/>
