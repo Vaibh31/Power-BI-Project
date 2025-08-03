@@ -74,19 +74,19 @@ The project demonstrates my ability to:
 
 ---
 ## ⚠️ Challenges Faced
-Data Cleaning: Handled missing values and standardized survey responses.
+- Data Cleaning: Handled missing values and standardized survey responses.
 
-No Date Field: Limited ability to perform time-based trend analysis.
+- No Date Field: Limited ability to perform time-based trend analysis.
 
-Age Grouping: Created logical age brackets using DAX.
+- Age Grouping: Created logical age brackets using DAX.
 
-Design Balance: Ensured visuals were clear, non-cluttered, and user-friendly.
+- Design Balance: Ensured visuals were clear, non-cluttered, and user-friendly.
 
-DAX Complexity: Built custom measures for KPIs and interactive filters.
+- DAX Complexity: Built custom measures for KPIs and interactive filters.
 
-Power BI Sharing Limits: Faced restrictions while publishing due to tenant settings.
+- Power BI Sharing Limits: Faced restrictions while publishing due to tenant settings.
 
-Interactive Filters: Ensured slicers affected all visuals correctly.
+- Interactive Filters: Ensured slicers affected all visuals correctly.
 
 
 
