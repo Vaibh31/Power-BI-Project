@@ -7,4 +7,4 @@ The objective of this project is to design an interactive Power BI dashboard tha
 - <a href="https://github.com/Vaibh31/Power-BI-Project/blob/main/Invistico_Airline.csv">Sample Airline CSV Datset</a>
 
 # Dashboard
- <img src="(https://github.com/Vaibh31/Power-BI-Project/blob/main/picture.png)"/>
+ <img src="https://github.com/Vaibh31/Power-BI-Project/blob/main/picture.png" />
