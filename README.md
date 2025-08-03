@@ -10,9 +10,13 @@ The project demonstrates my ability to:
 - Use DAX for calculated fields and conditional formatting
 - Translate raw survey data into actionable insights
 
-> **Note:** The raw dataset is **not included** in this repository due to privacy. Screenshots and a demo video are provided to showcase interactivity.
+## Dataset Used-
+- <a href="https://github.com/Vaibh31/Power-BI-Project/blob/main/Invistico_Airline.csv">Sample Airline CSV Datset</a>
 
 ---
+
+## Dashboard
+ <img src="https://github.com/Vaibh31/Power-BI-Project/blob/main/picture.png" />
 
 ## 🎯 Key Objectives
 
@@ -65,24 +69,12 @@ The project demonstrates my ability to:
 |----------------|-----------------------------------------|
 | **Power BI**   | Data modeling, visualizations, dashboard design |
 | **DAX**        | Measures for age buckets, averages, KPIs |
-| **Data Modeling** | Fact/dimension structure               |
 | **Power BI Desktop** | Development & layout design         |
-| **(Optional) Power BI Service** | For report publishing (if enabled) |
+| **(Optional) Power BI Service** | For report publishing    |
 
 ---
 
-## 📁 Project Structure
 
 
-# Airline Service Satisfaction Insights
 
-## 🎯 Project Objective 
-The objective of this project is to design an interactive Power BI dashboard that analyzes passenger satisfaction data from airline surveys. The goal is to uncover key service areas that influence customer satisfaction and dissatisfaction by examining demographic factors, travel type, flight class, service quality, and delays.
 
-## Dataset Used-
-- <a href="https://github.com/Vaibh31/Power-BI-Project/blob/main/Invistico_Airline.csv">Sample Airline CSV Datset</a>
-
-## Dashboard
- <img src="https://github.com/Vaibh31/Power-BI-Project/blob/main/picture.png" />
-
-## 
