@@ -92,6 +92,7 @@ The project demonstrates my ability to:
 
 - Interactive Filters: Ensured slicers affected all visuals correctly.
 
-
+## ✅ Conclusion
+The Airline Satisfaction Dashboard provides a comprehensive overview of passenger feedback, highlighting the impact of service quality, travel class, and demographics on satisfaction levels. With interactive filters and key KPIs, it enables stakeholders to quickly identify trends, uncover improvement areas, and make informed decisions to enhance the passenger experience.
 
 
