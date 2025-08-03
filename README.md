@@ -1,2 +1,4 @@
-# Power-BI-Project
- A Power BI dashboard analyzing factors that influence airline passenger satisfaction. The report explores how customer experiences vary by travel class, service ratings, trip type, and passenger demographics such as age and gender.
+# Airline Service Satisfaction Insights
+
+## 🎯 Project Objective 
+The objective of this project is to design an interactive Power BI dashboard that analyzes passenger satisfaction data from airline surveys. The goal is to uncover key service areas that influence customer satisfaction and dissatisfaction by examining demographic factors, travel type, flight class, service quality, and delays.
